@@ -8,7 +8,6 @@ I study at [the National University of Science and Technology MISiS](https://en.
     <a href="mailto:khonerworki@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <h2 align="center"> My competencies 🔮</h2>
-[comment]: <> (<div align="center">)
 <h3> 💬 Languages</h3>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>:shipit: 
 <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
