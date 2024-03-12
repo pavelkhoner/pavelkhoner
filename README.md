@@ -1,7 +1,8 @@
 <h2 align="center">:octocat: Hello there! <img src="https://user-images.githubusercontent.com/25639843/166544919-18626d59-3e74-427e-a444-62c304f55f1a.gif" width="30px" height="30px"></h2>
 <h3 align="center">My name is Pavel Khoner</h3>
 <h4 align="center">I'm an Analyst 👨‍, Developer 👀, Traveler 🛸</h4>
-I study at [the National University of Science and Technology MISiS](https://en.misis.ru/) on Applied Math. I love to work hard and always enjoy practicing:finnadie:&:goberserk:  
+
+I study at [the National University of Science and Technology MISiS](https://en.misis.ru/) on Applied Math. I love to work hard and always enjoy practicing :finnadie:&:goberserk:
 <div align="center">
     <p>You can write me:</p>
     <a href="https://t.me/pauluandiy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
